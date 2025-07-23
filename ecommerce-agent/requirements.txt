@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pandas
+langchain
+langchain-community
+python-multipart
+matplotlib
+plotly
